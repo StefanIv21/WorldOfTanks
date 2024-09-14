@@ -1,5 +1,6 @@
 # GFX Framework
 
+https://github.com/user-attachments/assets/3488c871-c287-424f-ad1f-7690bc8992d1
 ## :sparkles: Introduction
 
 This project is a tiny graphics framework used by the Computer Graphics Department of the Polytechnic University of Bucharest.
